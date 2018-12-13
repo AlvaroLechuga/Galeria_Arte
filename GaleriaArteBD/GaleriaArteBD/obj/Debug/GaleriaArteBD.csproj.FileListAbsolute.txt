@@ -1,0 +1,34 @@
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.exe.config
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.exe
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.pdb
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\bin\Debug\MySql.Data.dll
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.Form1.resources
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.Properties.Resources.resources
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.CopyComplete
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.exe
+C:\Users\usuario\Desktop\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csprojAssemblyReference.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.Form1.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.Properties.Resources.resources
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.GenerateResource.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.CoreCompileInputs.cache
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.exe.config
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.exe
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.pdb
+H:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.CopyComplete
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.exe.config
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.exe
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\bin\Debug\GaleriaArteBD.pdb
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csprojAssemblyReference.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.Form1.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.Properties.Resources.resources
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.GenerateResource.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.CoreCompileInputs.cache
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.csproj.CopyComplete
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.exe
+D:\Ciclo Superior\2º\Interfaces\Actividades a entregar\GaleriaArteBD\GaleriaArteBD\obj\Debug\GaleriaArteBD.pdb
